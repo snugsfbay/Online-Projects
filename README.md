@@ -1,4 +1,4 @@
-# GitHub Projects and Pages
+/*# GitHub Projects and Pages*/
 Did you know that you can use GitHub for things like project management and creating beautiful web pages for your repositories? You can use these to highlight and organize your work.
 
 ## Project Management
