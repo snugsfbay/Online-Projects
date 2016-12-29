@@ -9,10 +9,15 @@ Projects let you organize the work effort. They are broken down into columns tha
 
 ### Notes, Cards and Issues
 Project ideas can be created as Notes, Cards or Issues.
+
 * **Notes:** Added to any column of your project, these can be dragged from one column to another to reorganize your ideas and work efforts. These can be converted to Issues using the 
+
 * **Issues:** Added to any GitHub repository typically as a feature request, bug report, question, or even a request for help. These are related to specific code and content stored in that repository. 
+
   - *Open:* Issues that need a resolution.
+  
   - *Closed:* Issues that have been addressed and appear to be resolved one way or another.
+  
 * **Cards:** Using the "Add Cards" option for the Project, you can search for existing Issues to add to your project as Cards that can be moved from column to column. For example, an Issue might be tracked across the Kanban-style project as it approaches completion or it might be placed in a column that indicates which team or area of functionality it relates to in the basic sample. 
 
 ### Milestones
@@ -21,5 +26,6 @@ Issues can also be associated with Milestones. Use Milestones to track the numbe
 
 ## Potential Limitations
 As beautiful as it is, you may have some concerns.
+
 ### Privacy
 Obviously, the repositories, pages, projects and issues discussed here are public. Private repositories are available with paid licenses from GitHub and will have private projects and issues (and Wikis). GitHub Pages are always public, regardless of the repository. For private pages, you can add authorization as long as pages are served up via Heroku or similar, [as described on this blog post](http://www.alexandrejoseph.com/blog/2015-03-11-restricted-github-pages.html). 
