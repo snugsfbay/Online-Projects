@@ -1,7 +1,7 @@
-# Test
-Did you know that you can use GitHub for things like project management and creating beautiful web pages for your repositories?
+# GitHub Projects and Pages
+Did you know that you can use GitHub for things like project management and creating beautiful web pages for your repositories? You can use these to highlight and organize your work.
 
-## Kanban Project Sample
+### Kanban Project Sample
 [6 column Kanban board](https://github.com/snugsfbay/Test/projects/1): this example project shows a basic six column Kanban board you can use to classify issues during the various parts of a work cycle. The columns represent parts of the work cycle for writing code and writing content, everything from basic ideas in the TODO/thesis column to Deployed/Published and finally the Done column to track all the way from idea to completion.
 
 ### Basic Project Sample
@@ -18,5 +18,8 @@ Project ideas can be created as Notes, Cards or Issues.
 ### Milestones
 Issues can also be associated with Milestones. Use Milestones to track the number of open vs. closed issues and associate them with specific deadlines. You might have Milestones around production phases or around scheduled activities like presentations and training.
 
+
+## Potential Limitations
+As beautiful as it is, you may have some concerns.
 ### Privacy
 Obviously, the repositories, pages, projects and issues discussed here are public. Private repositories are available with paid licenses from GitHub and will have private projects and issues (and Wikis). GitHub Pages are always public, regardless of the repository. For private pages, you can add authorization as long as pages are served up via Heroku or similar, [as described on this blog post](http://www.alexandrejoseph.com/blog/2015-03-11-restricted-github-pages.html). 
