@@ -2,6 +2,7 @@
 Did you know that you can use GitHub for things like project management and creating beautiful web pages for your repositories? You can use these to highlight and organize your work.
 
 ## Project Management
+GitHub repositories and organizations have a project option that can help you organize the work you are doing, whether you need to simply sort ideas into lists or use a Kanban board for tracking the progress of issues.
 
 ### Kanban Project Sample
 [6 column Kanban board](https://github.com/snugsfbay/Test/projects/1): this example project shows a basic six column Kanban board you can use to classify issues during the various parts of a work cycle. The columns represent parts of the work cycle for writing code and writing content, everything from basic ideas in the TODO/thesis column to Deployed/Published and finally the Done column to track all the way from idea to completion.
