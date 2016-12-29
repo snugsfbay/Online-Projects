@@ -27,7 +27,7 @@ Issues can also be associated with Milestones. Use Milestones to track the numbe
 
 
 ## Easy Read Web Pages
-GitHub pages offer a way to serve up the repository and project in a more friendly way. Sure, the Readme.md looks good on the project home, but it looks even better on its own web page, with a theme selected on the repository settings. As beautiful as it is, you may have some concerns.
+GitHub pages offer a way to serve up the repository and project in a more friendly way. Sure, the Readme.md looks good on the project home, but it looks even better on its own web page, with a theme selected on the repository settings.
 
 ### Privacy
 Obviously, the repositories, pages, projects and issues discussed here are public. Private repositories are available with paid licenses from GitHub and will have private projects and issues (and Wikis). GitHub Pages are always public, regardless of the repository. For private pages, you can add authorization as long as pages are served up via Heroku or similar, [as described on this blog post](http://www.alexandrejoseph.com/blog/2015-03-11-restricted-github-pages.html). 
