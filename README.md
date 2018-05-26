@@ -35,3 +35,24 @@ You can't really preview pages before publishing them, at least not in a WYSIWYG
 
 ### Privacy
 Obviously, the repositories, pages, projects and issues discussed here are public. Private repositories are available with paid licenses from GitHub and will have private projects and issues (and Wikis). GitHub Pages are always public, regardless of the repository. For private pages, you can add authorization as long as pages are served up via Heroku or similar, [as described on this blog post](http://www.alexandrejoseph.com/blog/2015-03-11-restricted-github-pages.html). 
+
+
+### TEST VIDEO
+
+Not sure what will happen
+
+<video width="400" controls>
+  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+<p>
+Video courtesy of 
+<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+</p>
+
+But that's it
+
+[![IMAGE ALT TEXT HERE](https://peach.blender.org/wp-content/uploads/bbb-splash.thumbnail.png)](https://www.w3schools.com/html/mov_bbb.mp4)
+[![IMAGE ALT TEXT HERE](https://peach.blender.org/wp-content/uploads/bbb-splash.thumbnail.png)](https://www.w3schools.com/html/mov_bbb.mp4 target="_blank")
+[![IMAGE ALT TEXT HERE](https://www.w3schools.com/html/mov_bbb.mp4)](https://www.w3schools.com/html/mov_bbb.mp4)
+
