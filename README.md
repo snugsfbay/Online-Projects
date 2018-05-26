@@ -43,16 +43,16 @@ Not sure what will happen
 
 <video width="400" controls>
   <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
+  Previewing in GitHub or your browser does not support HTML5 video -- switch to GitHub Pages view.
 </video>
 <p>
 Video courtesy of 
 <a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
 </p>
 
-But that's it
+Using video as a link behaves differently between GitHub and GitHub Pages as well.
 
 [![IMAGE ALT TEXT HERE](https://peach.blender.org/wp-content/uploads/bbb-splash.thumbnail.png)](https://www.w3schools.com/html/mov_bbb.mp4)
 [![IMAGE ALT TEXT HERE](https://peach.blender.org/wp-content/uploads/bbb-splash.thumbnail.png)](https://www.w3schools.com/html/mov_bbb.mp4 target="_blank")
-[![IMAGE ALT TEXT HERE](https://www.w3schools.com/html/mov_bbb.mp4)](https://www.w3schools.com/html/mov_bbb.mp4)
+[IMAGE ALT TEXT HERE](https://www.w3schools.com/html/mov_bbb.mp4 target="_blank")
 
