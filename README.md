@@ -44,6 +44,7 @@ Not sure what will happen
 <video width="400" controls>
   <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
   Previewing in GitHub or your browser does not support HTML5 video -- switch to GitHub Pages view.
+  </source>
 </video>
 <p>
 Video courtesy of 
